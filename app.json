@@ -1,28 +1,28 @@
 {
-  "name": "随便",
-  "description": "随便",
+  "name": "lov2ray",
+  "description": "greg",
   "keywords": [
-    "随便"
+    "123456789"
   ],
   "env": {
     "PROTOCOL": {
-      "description": "协议VMess或VLESS，请填小写的vmess或vless",
-      "value": "vmess",
+      "description": "vless",
+      "value": "vless",
       "required": true
     },
     "UUID": {
-      "description": "用户的主ID",
+      "description": "cfd34bb2-2842-444f-abb8-050af290ef81",
       "value": "",
       "required": false
     },
     "WS_PATH": {
-      "description": "websocket路径",
+      "description": "https://github.com/dukelookyuener/helloXv2ray",
       "value": "/ray",
       "required": true
     }
   },
-  "website": "https://github.com/用户名/仓库名",
-  "repository": "https://github.com/用户名/仓库名",
+  "website": "https://github.com/dukelookyuener/helloXv2ray",
+  "repository": "https://github.com/dukelookyuener/helloXv2ray",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
